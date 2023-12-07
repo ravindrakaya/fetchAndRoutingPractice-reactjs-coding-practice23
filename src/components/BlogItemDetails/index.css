@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.blog-item-details-container {
+  padding: 20px;
+}
+.blog-heading {
+  color: #000000;
+  font-family: 'Roboto';
+}
+.blog-alt-img {
+  height: 20px;
+  width: 20px;
+  border-radius: 10px;
+}
+.blog-author {
+  color: #2f4f4f;
+  font-family: 'Roboto';
+  margin-left: 10px;
+}
+.blog-item-avatar-container {
+  display: flex;
+  align-items: center;
+}
+.blog-img {
+  height: 400px;
+  width: 600px;
+}
